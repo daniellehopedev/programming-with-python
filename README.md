@@ -12,3 +12,7 @@
 - List companies with respective total inventory value
 - List products with less than 10 in inventory
 - Write to spreadsheet and save into a new file
+
+### GitHub API Request
+- Send a request to the GitHub API for a list of public repositories of a user
+- List those repositories
